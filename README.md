@@ -72,10 +72,12 @@ Run backend and frontend
 
 ## Usage
 
-Register/Login as a user
-Upload files securely
-View your file list
-Delete files
+1. Register/Login as a user
+2. Upload files securely
+3. Automated Data Privacy
+4. Leak Prevention & Quarantine
+5. View your file list
+6. Delete files
 
 
 
