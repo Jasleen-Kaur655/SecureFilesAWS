@@ -42,13 +42,15 @@ Built with a modern full-stack architecture, AWS cloud services, and CI/CD deplo
 
 ## Screenshots
 
-**Login Page**  
+##Login Page  
+
 ![Login Page](images/Login_Page.png)
 
-**File Uploaded Page**  
+##File Uploaded Page
+
 ![File Uploaded Page](images/File_uploaded_page.png)
 
-**Deleted File Page**  
+##Deleted File Page  
 ![Deleted File Page](images/Deleted_file_page.png)
 
 ## Installation
