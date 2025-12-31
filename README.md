@@ -74,4 +74,5 @@ Register/Login as a user
 Upload files securely
 View your file list
 Delete files
+
 Generate temporary download links
