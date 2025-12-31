@@ -37,7 +37,11 @@ Built with a modern full-stack architecture, AWS cloud services, and CI/CD deplo
 - Python & JavaScript
 
 ## Project Pipeline
-![Pipeline Flowchart](Images/Flowchart.png)
+<img
+  width="500"
+  alt="Pipeline Diagram"
+  src="https://github.com/user-attachments/assets/57f5f277-7ce9-4e37-9139-0f3a482c1ef7"
+/>
 
 ## Screenshots
 
@@ -75,4 +79,5 @@ View your file list
 Delete files
 
 Generate temporary download links
+
 
