@@ -77,7 +77,6 @@ Upload files securely
 View your file list
 Delete files
 
-Generate temporary download links
 
 
 
