@@ -44,6 +44,7 @@ Built with a modern full-stack architecture, AWS cloud services, and CI/CD deplo
   src="https://github.com/Jasleen-Kaur655/SecureFilesAWS/blob/main/Images/Flowchart.png?raw=true"
 />
 
+
 ## Screenshots
 
 **Login Page**  
@@ -80,6 +81,7 @@ View your file list
 Delete files
 
 Generate temporary download links
+
 
 
 
