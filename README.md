@@ -37,21 +37,19 @@ Built with a modern full-stack architecture, AWS cloud services, and CI/CD deplo
 - Python & JavaScript
 
 ## Project Pipeline
-## Project Pipeline
-<img width="500" alt="Secure File Management System Pipeline" src="./Images/Flowchart.png" />
-
+![Pipeline Flowchart](images/Flowchart.png)
 
 
 ## Screenshots
 
 **Login Page**  
-![Login Page](Images/Login_Page.png)
+![Login Page](images/Login_Page.png)
 
 **File Uploaded Page**  
-![File Uploaded Page](Images/File_uploaded_page.png)
+![File Uploaded Page](images/File_uploaded_page.png)
 
 **Deleted File Page**  
-![Deleted File Page](Images/Deleted_file_page.png)
+![Deleted File Page](images/Deleted_file_page.png)
 
 ## Installation
 1. Clone the repository:
