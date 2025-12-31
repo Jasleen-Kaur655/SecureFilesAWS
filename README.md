@@ -41,9 +41,8 @@ Built with a modern full-stack architecture, AWS cloud services, and CI/CD deplo
 <img
   width="500"
   alt="Secure File Management System Pipeline"
-  src="https://raw.githubusercontent.com/Jasleen-Kaur655/SecureFilesAWS/main/Images/Flowchart.png"
+  src="https://github.com/Jasleen-Kaur655/SecureFilesAWS/blob/main/Images/Flowchart.png?raw=true"
 />
-
 
 ## Screenshots
 
@@ -81,6 +80,7 @@ View your file list
 Delete files
 
 Generate temporary download links
+
 
 
 
