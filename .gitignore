@@ -2,6 +2,12 @@
 __pycache__/
 *.pyc
 
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
 # IDE configs
 .vscode/
 .idea/
