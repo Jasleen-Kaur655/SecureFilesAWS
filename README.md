@@ -50,7 +50,6 @@ Built with a modern full-stack architecture, AWS cloud services, and CI/CD deplo
 **Deleted File Page**  
 ![Deleted File Page](Images/Deleted_file_page.png)
 
-
 ## Installation
 1. Clone the repository:
    ```bash
